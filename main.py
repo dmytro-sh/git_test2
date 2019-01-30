@@ -8,6 +8,6 @@ def print_test():
         print('all OK')
     return 0
 
-
-print('test git 3 ')
 print_test()
+print('test git 3 ')
+
