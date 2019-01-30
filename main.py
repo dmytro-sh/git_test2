@@ -5,7 +5,9 @@ def print_test():
     else:
         check = False
     if check:
-        print('OK')
+        print('all OK')
     return 0
 
 
+print('test git 3 ')
+print_test()
